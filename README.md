@@ -13,6 +13,7 @@ preprocessing.ipynb: Notebook de Jupyter que realiza las labores de preprocesado
 
 En todos los procesos de entrenamiento se utiliza una semilla (42) para permitir reproducir los resultados obteniendo las mismas métricas.
 Es posible que se tenga que actualizar el path de algunas lecturas para acceder a los archivos dependiendo de las rutas de los ficheros de sus ordenadores.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The code for the practice has been developed using Jupyter Notebook, so the files are included in the ipynb format, as well as the data files in csv format. A brief explanation of their content is provided for reproducing the results:
